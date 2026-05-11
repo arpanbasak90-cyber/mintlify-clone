@@ -1,0 +1,1 @@
+import{j as t}from"./index-BfctdUp1.js";import{P as o}from"./PageShell-sPPLX4XB.js";import"./Footer-DZLkl20w.js";const i=()=>t.jsx(o,{kicker:"Resources",title:"Guides for shipping great docs",children:t.jsx("p",{children:"Templates, playbooks, and tutorials to help your team write documentation that scales with your product."})});export{i as component};

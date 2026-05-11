@@ -1,0 +1,1 @@
+import{j as e}from"./index-BfctdUp1.js";import{P as o}from"./PageShell-sPPLX4XB.js";import"./Footer-DZLkl20w.js";const s=()=>e.jsx(o,{kicker:"Careers",title:"Join us",children:e.jsx("p",{children:"We're hiring across engineering, design, and customer success. If great documentation excites you, we want to hear from you."})});export{s as component};
